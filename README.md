@@ -1,12 +1,12 @@
- # Hi, Im aGold, A random idiot.
+ <h1 align='center'>Hi, Im aGold, A random idiot.</h1>
 
-## A [Discord](https://discord.com) bot developer, with 4 months of experience.<br>Im also a beginner on making websites.
+<h2 align="center"> A <a href="https://discord.com">Discord</a> bot developer, with 4 months of experience.<br>Im also a beginner on making websites.</h2>
 
  
 
- <details> 
+ <details align="center"> 
 
-   <summary>My Github Statistics</summary> 
+   <summary>My Statistics</summary> 
 
     
 
@@ -16,11 +16,11 @@
 
  </details>
 
-<details>
+<details align="center">
 
 <summary>Contact Me</summary>
 
-You can contact me on Discord, username is **aGold#9596.**
+You can contact me on Discord, username is **__aGold#9596.__**
 
 ![](https://discord.c99.nl/widget/theme-2/811063196248440903.png)
 

@@ -22,5 +22,6 @@
 
 You can contact me on Discord, username is **__aGold#9596.__**
 
-![](https://discord.c99.nl/widget/theme-2/811063196248440903.png)
+[![​Discord Presence​](https://lanyard.cnrad.dev/api/811063196248440903?bg=3092790&idleMessage=Nothing%20to%20see%20Here!)](https://discord.com/users/811063196248440903)
+
 
